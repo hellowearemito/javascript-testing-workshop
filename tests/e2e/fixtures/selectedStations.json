@@ -1,0 +1,16 @@
+{
+  "selectedStations": {
+    "outbound": {
+      "iata": "BUD",
+      "latitude": 47.4367,
+      "longitude": 19.2556,
+      "shortName": "Budapest"
+    },
+    "return": {
+      "iata": "LTN",
+      "latitude": 51.5667,
+      "longitude": -0.3667,
+      "shortName": "London Luton"
+    }
+  }
+}
